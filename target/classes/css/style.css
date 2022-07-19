@@ -1,0 +1,27 @@
+
+
+
+
+.menu-bar {
+    -fx-background-color: black;
+}
+
+.menu-button  .label{
+    -fx-text-fill: white;
+}
+
+.menu-item .label{
+    -fx-text-fill: black;
+}
+
+.menu-item:focused {
+    -fx-background-color: darkgray;
+}
+
+.menu-item:focused .label {
+    -fx-text-fill: blue;
+}
+
+.back-ground-color{
+    -fx-background-color: black;
+}
